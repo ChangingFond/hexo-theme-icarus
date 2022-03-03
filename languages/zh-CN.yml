@@ -28,12 +28,12 @@ widget:
 article:
     created_at: '%s发表'
     updated_at: '%s更新'
-    more: '阅读更多'
+    more: '查看全文'
     comments: '评论'
     read_time: '%s读完'
     word_count:
-        one: '大约%d个字'
-        other: '大约%d个字'
+        one: '约%d字'
+        other: '约%d字'
     licensing:
         author: '作者'
         created_at: '发布于'
